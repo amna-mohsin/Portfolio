@@ -13,7 +13,6 @@ jobs:
       - name: Checkout repo
         uses: actions/checkout@v3
 
-<<<<<<< HEAD
       - name: Use Node.js 18
         uses: actions/setup-node@v3
         with:
@@ -23,17 +22,6 @@ jobs:
         run: npm ci
 
       - name: Build project
-=======
-      - name: Setup Node.js 18
-        uses: actions/setup-node@v3
-        with:
-          node-version: '18'
-
-      - name: Install dependencies
-        run: npm install
-
-      - name: Run build
->>>>>>> d0c865bbe6934e11d96799ba9a07417fc739e3d8
         run: npm run build
 
       - name: Deploy to Netlify
