@@ -2,11 +2,11 @@ import { useState } from "react";
 import { cn } from "@/lib/utils";
 
 const skills = [
-  { name: "HTML", level: 100 },
-  { name: "CSS", level: 100 },
-  { name: "JavaScript", level: 80 },
-  { name: "React", level: 70 },
-  { name: "Bootstrap", level: 90 },
+  { name: "HTML", level: 80 },
+  { name: "CSS", level: 80 },
+  { name: "JavaScript", level: 70 },
+  { name: "React", level: 60 },
+  { name: "Bootstrap", level: 60 },
   { name: "Tailwind CSS", level: 60 },
 ];
 
