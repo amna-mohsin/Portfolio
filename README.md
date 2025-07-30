@@ -1,16 +1,35 @@
-<<<<<<< HEAD
-# React + Vite
+# Personal Portfolio Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A beginner-friendly and responsive personal portfolio website built using **HTML**, **CSS**, **JavaScript**, and their modern frameworks. Perfect for showcasing skills, projects, and contact information.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+  - Home Section  
+  - Skills Section  
+  - Projects Section  
+  - About & Contact Section  
+  - Smooth Navigation  
+  - Fully Responsive Layout
 
-## Expanding the ESLint configuration
+## Technologies Used
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-=======
-# Portfolio
->>>>>>> db8a03883f8936b0822393f60c743985ba5afb90
+  - HTML5  
+  - CSS3  
+  - JavaScript  
+  - Tailwind CSS  
+  - React.js  
+
+## Usage
+
+  - Clone or download the repository  
+  - Run `npm install` to install dependencies  
+  - Run `npm run dev` to start the development server  
+  - Open in browser at `http://localhost:5176`  
+
+## Netlify
+
+🔗 [View on Netlify](https://vermillion-praline-15e750.netlify.app/)
+
+## Author
+
+**Amna Mohsin**
