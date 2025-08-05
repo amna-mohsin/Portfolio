@@ -1,35 +1,50 @@
 # Personal Portfolio Website
 
-A beginner-friendly and responsive personal portfolio website built using *HTML, **CSS, **JavaScript*, and their modern frameworks. Perfect for showcasing skills, projects, and contact information.
+A clean, modern, and fully responsive personal portfolio website built with the latest frontend technologies including React.js, Tailwind CSS, and Vite. Designed to showcase skills, projects, and contact information in a user-friendly and professional layout.
 
-## Features
+## Live Demo
 
-  - Home Section  
-  - Skills Section  
-  - Projects Section  
-  - About & Contact Section  
-  - Smooth Navigation  
-  - Fully Responsive Layout
+[View on Netlify](https://vermillion-praline-15e750.netlify.app/)
 
 ## Technologies Used
 
-  - HTML5  
-  - CSS3  
-  - JavaScript  
-  - Tailwind CSS  
-  - React.js  
+- HTML5  
+- CSS3  
+- JavaScript  
+- React.js  
+- Tailwind CSS  
+- Vite
 
-## Usage
+## Features
 
-  - Clone or download the repository  
-  - Run npm install to install dependencies  
-  - Run npm run dev to start the development server  
-  - Open in browser at http://localhost:5176  
+- Home Section  
+- Skills Section  
+- Projects Section  
+- About & Contact Section  
+- Smooth Navigation  
+- Fully Responsive Layout  
+- Clean and Minimal UI  
+- Easy to Customize Code
 
-## Netlify
+## Getting Started
 
-🔗 [View on Netlify](https://vermillion-praline-15e750.netlify.app/)
+Follow these steps to run the project locally:
+
+1. Clone or download the repository:
+git clone (https://github.com/amna-mohsin/Portfolio.git)
+
+2. Install dependencies:
+npm install
+
+3. Start the development server:
+npm run dev
+
+4. Open your browser at:
+http://localhost:5173/
+
 
 ## Author
 
-*Amna Mohsin*
+Amna Mohsin  
+[Portfolio](https://my-portfolio-website-a.netlify.app/)
+[LinkedIn](https://www.linkedin.com/in/amna-m98/)  
