@@ -4,7 +4,7 @@ A clean, modern, and fully responsive personal portfolio website built with the 
 
 ## Live Demo
 
-[View on Netlify](https://vermillion-praline-15e750.netlify.app/)
+[View on Netlify](https://my-portfolio-website-a.netlify.app/)
 
 ## Technologies Used
 
