@@ -43,6 +43,25 @@ npm run dev
 http://localhost:5173/
 
 
+## Deployment on Netlify
+
+This project was deployed using **Netlify** through the following steps:
+
+### Method Used: Drag and Drop
+
+1. Run the build command to generate production files:
+   npm run build
+   
+2. This creates a `dist/` folder inside your project.
+
+3. Go to [Netlify Drop](https://app.netlify.com/drop)
+
+4. Drag and drop the entire `dist/` folder into the browser window.
+
+5. Netlify will automatically upload and deploy your project.
+
+6. After deployment, you'll receive a live site URL.
+
 ## Author
 
 Amna Mohsin  
